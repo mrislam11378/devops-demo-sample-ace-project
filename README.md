@@ -44,5 +44,3 @@ When creating the project name, please use only lowercase letters and dashes onl
 ```
 
 Test 4
-
-
