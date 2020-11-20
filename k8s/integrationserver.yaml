@@ -2,6 +2,7 @@ apiVersion: appconnect.ibm.com/v1beta1
 kind: IntegrationServer
 metadata:
   name: sample-ace-project
+  namespace: cp4i
 spec:
   designerFlowsOperationMode: disabled
   license:
